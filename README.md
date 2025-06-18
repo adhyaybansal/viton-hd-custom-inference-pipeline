@@ -1,6 +1,10 @@
 # viton-hd-custom-inference-pipeline
 An end-to-end virtual try-on pipeline using the VITON-HD framework, integrated with U-2-Net for cloth mask generation, SCHP for human image parsing, and OpenPose for pose estimation. This notebook-driven project supports custom image inputs and outlines a step-by-step process to test VITON-HD on your own data.
 
+Link:-
+Checkpoints - https://drive.google.com/drive/folders/0B8kXrnobEVh9fnJHX3lCZzEtd20yUVAtTk5HdWk2OVV0RGl6YXc0NWhMOTlvb1FKX3Z1OUk?resourcekey=0-OIXHrDwCX8ChjypUbJo4fQ
+SCHP - https://drive.google.com/file/d/1k4dllHpu0bdx38J7H28rVVLpU-kOHmnH/view
+U2NET - https://drive.google.com/file/d/1rbSTGKAE-MTxBYHd-51l2hMOQPT_7EPy/view
 
 # 👕 VITON-HD Custom Inference Pipeline
 
